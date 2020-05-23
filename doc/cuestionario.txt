@@ -1,0 +1,96 @@
+Bienvenida
+- "¡Bienvenido! En la siguiente prueba podrás explorar con nosotros algunas propiedades de la percepción.
+Durante aproximadamente 10 minutos, observarás estímulos variados y responderás preguntas sencillas.
+Al final verás un gráfico interactivo 3D que podrás usar para explorar tus expectativas o sesgos y comparararlos con los de los demás.
+Para la prueba, debés tener el audio del dispositivo prendido y de lo posible estar en un espacio relativamente tranquilo"
+
+Consentimiento
+- "Continuando con el experimento aceptás aportar los datos generados, ayudándonos en nuestra labor de curiosidad científica.
+Si ya juntaste la valentía suficiente, focalizá tu atención todo lo que puedas... y continuá"
+
+
+Videos:
+- "Te mostraremos dos videos cortos.
+Observalos atentamente, luego deberás describirlos con todos los elementos y detalles que puedas
+Si se demora algunos segundos, por favor ten paciencia"
+- "Describí el video con el mayor detalle que puedas"
+- Si ingresó menos de 120 palabras: "Ingrese al menos 120 palabras para continuar"
+
+Audioperceptiva:
+Suena un acorde menor
+"¿Qué tipo de acorde es?"
+
+Suenan dos tonos en simultáneo
+- "Se escuchan dos tonos. ¿Cuál es más agudo?"
+
+Suenan dos tonos secuencialmente
+- "Se tocan dos pares de notas. ¿Cuál tiene notas más alejadas entre si?"
+
+Colores
+- Se observa un gradiente desordenado de colores
+- "Ordená los colores según su gradiente, ¡lo más rapido que puedas!"
+
+Evocación
+- "Describa todo lo que recuerde de la historia leída inicial"
+
+Matemáticas
+-"Un palo de Hockey y una bocha vale $1,10, sabiendo que el palo vale $1,00 más que la bocha. ¿Cuánto vale la bocha?"
+
+Escala 1
+
+"Interpretación o composición musical
+Deporte o act. física individual
+Deporte o act. física grupal
+Artes plásticas
+Artes escénicas
+Artes visuales / diseño / fotografía
+Investigación científica
+Programación
+Interpretación o composición musical
+Deporte o act. física individual
+Deporte o act. física grupal)
+Artes plásticas
+Artes escénicas
+Artes visuales / diseño / fotografía
+Investigación científica
+Programación
+Netflix
+Televisión
+Facebook
+Instagram
+Trabajo en PC
+
+Escala 2
+Arte
+Matemáticas o lógica
+Literatura y humanidades
+Audición
+Visión
+Gusto
+Lenguaje
+Emoción
+Olfato
+Tacto, calor
+Tacto, texturas
+Posición del cuerpo
+Imaginación
+Orientación en el tiempo
+Orientación en el espacio
+Afecto
+Intelecto
+Colores
+Dia (0) o noche (10)
+
+Reading the mind in the eyes
+
+Sociodemográfico
+¿Cuál es tu nombre y/o apellido?
+¿Cuántos años tenés?
+¿Cuántas horas de sueño tuviste la noche anterior?
+¿En qué barrio vivís?
+Ingresá tu altura y peso aproximadamente ("ej. 175 cm, 75 kg") 
+¿Tiene o tuvo algun condición psiquiátrica?
+¿Cuál es tu nivel de formación académica? Ej. "Secundario Completo
+¿Qué carrera estudiás o estudiaste? (Si no, dejá vacío)
+Si estás haciendo una carrera, ¿hace cuántos años?
+¿Hacés alguna actividad extracurricular como hobbie o trabajo? ¿Cuál?
